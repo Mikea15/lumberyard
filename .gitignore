@@ -127,6 +127,7 @@
 /dev/Tools/LmbrSetup/Win.vc141.Debug
 /dev/Tools/LmbrSetup/Win.vc140.Debug
 /dev/Tools/LmbrSetup/Win.vc120.Debug
+/dev/Tools/*
 
 # Ignore ico files from Lumberyard folders but preserve ico files in project folders
 /dev/Code/**/*.ico
@@ -137,3 +138,15 @@
 /dev/SetupAssistantUserPreferences.ini
 /dev/_WAF_/environment.json
 /SetupAssistant.bat
+dev/_WAF_/environment.json
+dev/bootstrap.cfg
+dev/CloudGemDefectReportSample/Gem/Resources/GameSDK.ico
+dev/Editor/editoreventlog.xml
+dev/Editor/editorlayout.xml
+dev/SessionStatus/editor_statuses.json
+dev/UserSettings.xml
+dev/waf_branch_spec.pyc
+filehashes.json
+dev/_WAF_/environment.json
+dev/bootstrap.cfg
+dev/waf_branch_spec.pyc
